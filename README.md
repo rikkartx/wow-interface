@@ -31,4 +31,4 @@
 
 ## Masque - 修改动作条样式
 
-下载 [Epic]() 样式, 
+下载 [Epic](https://www.curseforge.com/wow/addons/masque-epix) 样式
