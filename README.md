@@ -1,5 +1,7 @@
 # WOW 插件配置
 
+![](./screenshot/screenshot_202202062010.png)
+
 - ElvUI - 核心 UI 插件
 - ElvUI Addons WindTools - ElvUI 增强插件
 - ElvUI Addons AddonsSkin - ElvUI 增强插件, 用于将 Details 嵌入到右侧面板中
